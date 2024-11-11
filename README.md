@@ -23,7 +23,7 @@ If you want to train on multiple gameplay sequences simultaneously:
 ```bash
 python concat.py
 ```
-This will concatenate multiple games into a single `.tar.bz2` file.
+This will concatenate multiple gameplays into a single `.tar.bz2` file.
 
 #### Required Files
 Both Gaze and T-Gaze models require 4 input files:
