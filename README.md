@@ -19,7 +19,8 @@ Before running the code, ensure you either:
 ### 1. Preprocessing
 
 #### Combining Multiple Games
-If you want to train on multiple gameplay sequences simultaneously run concat.py and enter the parent directory that contains all the pairs of image and .txt files.
+If you want to train on multiple gameplay sequences simultaneously run concat.py 
+and enter the parent directory that contains all the pairs of image and .txt files.
 
 This will concatenate multiple gameplays into a single `.tar.bz2` file.
 
