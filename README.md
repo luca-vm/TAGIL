@@ -1,4 +1,4 @@
-# Game Gaze and Action Prediction
+# TAGIL: Temporal Attention Guided Imitation Learning
 
 ## Paper Reference
 The methodology for this code implementation can be found in: `TAGIL.pdf`
