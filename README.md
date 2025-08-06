@@ -1,5 +1,4 @@
-# Difficulty-Aware Imitation Learning with
-Temporal Gaze Guidance
+# Difficulty-Aware Imitation Learning with Temporal Gaze Guidance
 
 ## Paper Reference
 The methodology for this code implementation can be found in: `TAGIL.pdf`
