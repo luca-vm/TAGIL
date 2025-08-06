@@ -1,4 +1,4 @@
-# TAGIL: Difficulty-Aware Imitation Learning with
+# Difficulty-Aware Imitation Learning with
 Temporal Gaze Guidance
 
 ## Paper Reference
